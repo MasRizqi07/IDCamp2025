@@ -1,5 +1,5 @@
 body {
-    font-family: sans-serif;
+    font-family: 'Quicksand';
 }
 
 h2, h3 {
@@ -11,4 +11,20 @@ footer {
     padding: 20px;
     color: #000000;
     background-color: #00a2c6;
+    text-align: center;
+    font-weight: bold;
+}
+
+nav a {
+    font-size: 18px;
+    font-weight: 400;
+    text-decoration: none;
+}
+
+nav a:hover {
+    font-weight: bold;
+}
+
+.profile header {
+    text-align: center;
 }
